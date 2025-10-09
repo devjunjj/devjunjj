@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td width="30%" align="center">
-        <img src="https://media.tenor.com/nesdIcEueKQAAAAi/killua-gon.gif" width="120px" alt="Killua gif">
+        <img src="https://imgur.com/a/4qPYM6b" width="120px" alt="Killua gif">
       </td>
       <td width="70%" align="center">
         <h2>Olá, eu sou o Jun 👋</h2>
