@@ -1,4 +1,4 @@
-<img src="[https://i.imgur.com/8d1z1lY.gif](https://media.tenor.com/nesdlcEueKQAAAAM/killua-gon.gif)" width="100%">
+<img src="[[https://i.imgur.com/8d1z1lY.gif](https://media.tenor.com/nesdlcEueKQAAAAM/killua-gon.gif)](https://i.pinimg.com/564x/bc/64/f9/bc64f92921d75f57d6589e2d1106b842.jpg)" width="100%">
 
 ## Olá, eu sou Jun 👋
 
