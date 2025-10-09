@@ -8,9 +8,12 @@
       <td width="70%" align="center">
         <h2>Olá, eu sou o Jun 👋</h2>
         <p>
-          Sou estudante de <strong>Engenharia de Software</strong> apaixonado por tecnologia e sempre em busca de aprender coisas novas.<br>
-          📍 Moro em <strong>Itapevi</strong><br>
-          💼 <a href="https://www.linkedin.com/in/jonasvdev/">LinkedIn</a>
+           Sou estudante de <strong>Engenharia de Software</strong> apaixonado por tecnologia e por transformar ideias em código. 💻<br>
+           Estou dando meus primeiros passos na área, mas com muita <strong>vontade de aprender</strong> e colocar a mão na massa em novos projetos! 🚀<br>
+           Gosto de experimentar, errar, acertar e evoluir a cada linha de código — porque acredito que é assim que se constrói experiência de verdade.<br><br>
+           📍 Moro em <strong>Itapevi</strong><br>
+           🤝 Aberto a conexões, colaborações e novas oportunidades<br>
+           💼 <a href="https://www.linkedin.com/in/jonasvdev/">Meu LinkedIn</a>
         </p>
       </td>
     </tr>
