@@ -23,20 +23,20 @@
 
 ---
 
-<!-- CTA central com botões -->
+<!-- CTA central com badges corrigidos -->
 <p align="center">
   <!-- DEMO -->
-  <a href="https://rpg-dados-9c3a9.web.app" target="_blank">
+  <a href="DEMO_URL" target="_blank">
     <img
-      src="https://img.shields.io/badge/🪄%20Os%2013%20ícones%20-%20DEMO-?style=for-the-badge&labelColor=2b0e17&color=f0c23e"
       alt="Os 13 ícones - DEMO"
+      src="https://img.shields.io/badge/DEMO-Os%2013%20%C3%ADcones-f0c23e?style=for-the-badge&labelColor=2b0e17"
     />
   </a>
   <!-- REPO -->
-  <a href="https://github.com/devjunjj/os-13-icones" target="_blank">
+  <a href="REPO_URL" target="_blank">
     <img
-      src="https://img.shields.io/badge/📦%20Código%20no%20GitHub-VER%20REPO-?style=for-the-badge&labelColor=1a0b13&color=3b1624"
       alt="Código - GitHub"
+      src="https://img.shields.io/badge/Ver%20repo-GitHub-3b1624?style=for-the-badge&labelColor=1a0b13"
     />
   </a>
 </p>
@@ -47,19 +47,26 @@
 
 <div align="center">
 
-<!-- Se tiver um print, troque o src abaixo pelo caminho do seu arquivo -->
-<img src="https://raw.githubusercontent.com/devjunj/os-13-icones/main/preview.png" alt="Preview do Os 13 ícones" width="720" />
+<!-- Se você tiver a imagem: coloque preview.png na raiz do repo -->
+<!-- Caso contrário, mantenha o placeholder abaixo temporariamente -->
+<img
+  src="preview.png"
+  alt="Preview do Os 13 ícones"
+  width="720"
+  onerror="this.onerror=null;this.src='https://via.placeholder.com/1200x630/2b0e17/f0c23e?text=Os+13+%C3%ADcones';"
+/>
 
 <br/><br/>
 
-<a href="https://rpg-dados-9c3a9.web.app" target="_blank"><b>🪄 Acessar DEMO</b></a>
+<a href="DEMO_URL" target="_blank"><b>🪄 Acessar DEMO</b></a>
 &nbsp;•&nbsp;
-<a href="https://github.com/devjunj/os-13-icones" target="_blank"><b>📦 Ver Código</b></a>
+<a href="REPO_URL" target="_blank"><b>📦 Ver Código</b></a>
 
 <br/><br/>
 <sub>HTML/CSS/JS + Firebase — rolagens em tempo real, duelos, chat geral/privado, live board e tema “veludo arcano”.</sub>
 
 </div>
+
 
 ---
 
