@@ -70,6 +70,6 @@
 ## 📬 Contato
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/jonasvdev/">jonasvdev</a>  
-- 📨 Email: *(adicione aqui se quiser)*
+- 📨 Email: juniorvicenteramos@gmail.com
 
 ---
